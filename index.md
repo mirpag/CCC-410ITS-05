@@ -1,13 +1,19 @@
 # Sensors
 ## PH
+<p align="center">
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1662352/widgets/433859"></iframe>
+</p>
 
 ## EC
+<p align="center">
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1662352/widgets/433868"></iframe>
+</p>
 
 ## Temp
+<p align="center">
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1662352/widgets/433869"></iframe>
-
+</p>
+  
 More detailed graphs and date output [here.](https://thingspeak.com/channels/1662352)
 ## Water Flow Rates
 
